@@ -64,4 +64,4 @@ function Get-InformacoesSistema {
     }
 }
 # O resultado será incorporado no clipboard, basta dar Ctrl+V no local desejado após execução
-Get-InformacoesSistema -ComoTexto
+Get-InformacoesSistema -ComoTexto;
